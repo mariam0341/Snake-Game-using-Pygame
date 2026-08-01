@@ -22,12 +22,6 @@
 
 ---
 
-## 📂 Project Structure
-
-```
-Snake_Game/
-│── snake_game.py
-│── README.md
 ```
 
 ---
@@ -66,10 +60,6 @@ py -3.13 snake_game.py
 
 ---
 
-## 📸 Preview
-
-*(Add a screenshot of your game here after running it.)*
-
 ---
 
 ## 📚 Concepts Used
@@ -89,10 +79,6 @@ py -3.13 snake_game.py
 
 ---
 
-## 👩‍💻 Developed By
 
-**Saira Kamran**
-
-SMIT Python Programming Final Assignment 🚀
 
 ⭐ If you like this project, don't forget to give it a Star!
